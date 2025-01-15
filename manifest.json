@@ -1,0 +1,404 @@
+{
+  "source_base_path": "C:/Users/HP/source/repos/ase-demo-assignment-manojpanta1230",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE Assignment Demo/docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Assignment Demo/docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE Assignment Demo/docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Assignment Demo/docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE Assignment Demo/docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Assignment Demo/docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE Assignment Demo/docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE Assignment Demo/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Assignment Demo/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE Assignment Demo/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Assignment Demo/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE Assignment Demo/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "AppCanvasWeb/wwwroot/lib/jquery-validation/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "AppCanvasWeb/wwwroot/lib/jquery-validation/LICENSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomFor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomFor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomRectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomRectangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.CustomWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.CustomWhile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Demo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Demo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AppCanvasWeb.Controllers.CanvasController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AppCanvasWeb.Controllers.CanvasController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AppCanvasWeb.Controllers.HomeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AppCanvasWeb.Controllers.HomeController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AppCanvasWeb.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AppCanvasWeb.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AppCanvasWeb.Models.ErrorViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AppCanvasWeb.Models.ErrorViewModel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AppCanvasWeb.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AppCanvasWeb.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AssignTests.AppCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AssignTests.AppCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/AssignTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/AssignTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSE.CustomArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSE.CustomArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSE.CustomReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSE.CustomReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSE.CustomStoredProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSE.CustomStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSE.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ase_assessment.CustomWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ase_assessment.CustomWrite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ase_assessment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ase_assessment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
